@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnitaLitoborska
-- 👀 I’m interested in learning front-end techniques
---> for now :)
-Other hobbies:
+- 👀 I’m interested in learning front-end techniques --> for now :)
+- Other hobbies:
 - language learning
 - yoga / stretching
 - mountain hiking
