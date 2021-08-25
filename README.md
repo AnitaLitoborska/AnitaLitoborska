@@ -7,7 +7,7 @@
 - yoga / stretching
 - mountain hiking
 - healthy eating
-- and more..
+- squash & more..
 
 <!---
 AnitaLitoborska/AnitaLitoborska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
