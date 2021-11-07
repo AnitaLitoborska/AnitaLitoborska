@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnitaLitoborska
-- 👀 I want to work as a frontend developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Rest API, MySQL, PHP
+- 👀 I’m currently learning HTML, CSS, JavaScript, React, MySQL, Salesforce
 
 - Other hobbies:
 - language learning (english & german)
